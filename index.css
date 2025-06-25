@@ -82,13 +82,13 @@ body {
   border-radius: 30px;
 } */
 
-/* .clearAndNumber {
+.clearAndNumber {
   display: flex;
   flex-direction: column;
   gap: 1.4rem;
   justify-content: center;
   align-items: center;
-} */
+}
 .clear-button {
   display: flex;
   align-items: center;
