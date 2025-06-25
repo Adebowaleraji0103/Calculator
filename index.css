@@ -38,6 +38,9 @@ body {
   background-color: rgb(12, 11, 11);
   padding: 20px;
 }
+.mode-clock{
+  
+}
 
 .change-mode {
   display: flex;
