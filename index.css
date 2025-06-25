@@ -100,12 +100,12 @@ body {
   border-radius: 30px;
 }
 
-/* .number {
+.number {
   display: grid;
   grid-template-columns: repeat(3, auto);
   row-gap: 10px;
   column-gap: 25px;
-} */
+}
 
 .paragraph {
   background-color: #0505054d;
